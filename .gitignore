@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Inheritance/.vs/Inheritance.slnx
+/DesignPatterns/.vs/DesignPatterns.slnx
+/SRP/src/SrpLab/.vs
